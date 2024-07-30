@@ -9,6 +9,11 @@ Este desafío tiene como objetivo desarrollar un programa en JavaScript que inte
 3. Mostrar los primeros 20 títulos de álbumes en la consola.
 4. Crear una función que retorne una promesa, la cual debe resolverse después de 3 segundos, y mostrar un mensaje en la consola.
 
+## Instrucciones para Ejecutar
+
+1. Abre index.html en tu navegador web.
+2. Para ver los resultados, abre la consola de tu navegador.
+
 ## Autor
 
 Este proyecto fue desarrollado por **Valeria Torrealba**.
